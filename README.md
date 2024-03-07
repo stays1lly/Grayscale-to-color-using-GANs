@@ -46,4 +46,5 @@ This project demonstrates the potential of GANs, particularly when combined with
 
 ## Contributing
 
-Contributions to this project are welcome. Please feel free to fork the repository, make changes, and submit a pull request.
+Contributions to this project are welcome. Please feel free to fork the repository, make changes, and submit a pull request. 
+:)
